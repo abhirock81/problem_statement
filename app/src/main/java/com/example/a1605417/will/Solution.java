@@ -1,6 +1,3 @@
-package com.example.a1605417.will;
-
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
